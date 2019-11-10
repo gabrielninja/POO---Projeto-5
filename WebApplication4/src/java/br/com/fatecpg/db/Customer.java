@@ -20,6 +20,7 @@ public class Customer {
     private String name;
     private String email;
     
+    
     public static ArrayList<Customer> getList() throws Exception{
         ArrayList<Customer> list = new ArrayList<>();
         Class.forName("org.apache.derby.jdbc.ClientDriver");

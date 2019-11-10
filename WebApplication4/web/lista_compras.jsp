@@ -1,6 +1,6 @@
 <%-- 
-    Document   : fabricante
-    Created on : Nov 10, 2019, 7:57:47 PM
+    Document   : lista_compras
+    Created on : Nov 10, 2019, 8:24:24 PM
     Author     : gabrielprieto
 --%>
 
@@ -9,10 +9,10 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Projeto 5</title>
+        <title>Lista de Compras</title>
     </head>
     <body>
-        <h1>Fabricantes</h1>
+        <h1>Lista</h1>
         
     </body>
 </html>
