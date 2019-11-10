@@ -13,16 +13,15 @@ public class Lista {
     private int customer_id;
     private int product_id;
 
-    public Lista(int cliente_id, int product_id) {
+    public Lista(int customer_id) {
         this.customer_id = customer_id;
-        this.product_id = product_id;
     }
 
     public int getCliente_id() {
         return customer_id;
     }
 
-    public void setCliente_id(int cliente_id) {
+    public void setCliente_id(int customer_id) {
         this.customer_id = customer_id;
     }
 
